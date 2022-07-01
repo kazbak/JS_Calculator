@@ -4,7 +4,7 @@ var num2 = parseInt (prompt ("Second Number"))
 
 if (opr == "+")
 {
-    prompt ("The result is " (num1 + num2))
+    prompt (num1 + num2)
 
 } else if (opr == "-")
 {   
